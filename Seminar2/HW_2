@@ -2,7 +2,7 @@
  * Написать программу, показывающую последовательность действий для игры “Ханойская башня”.
  */
 
-package Homeworks.S3Hw1;
+package Homeworks.S2Hw1;
 
 import java.util.Scanner;
 
